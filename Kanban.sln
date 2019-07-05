@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban", "Kanban\Kanban.csproj", "{E636342C-0919-4173-95EA-900A008EE12B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Entities", "Kanban.Entities\Kanban.Entities.csproj", "{E5EC8807-1685-4CB3-A184-25CC4CDD7E1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.DataAccess", "Kanban.DataAccess\Kanban.DataAccess.csproj", "{98F69DD3-100E-41ED-B116-A8DBCF5FA275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanban.Bussines", "Kanban.Bussines\Kanban.Bussines.csproj", "{AC163673-E503-4FD9-A8FA-1E1EBADED5AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E636342C-0919-4173-95EA-900A008EE12B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E636342C-0919-4173-95EA-900A008EE12B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E636342C-0919-4173-95EA-900A008EE12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E636342C-0919-4173-95EA-900A008EE12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5EC8807-1685-4CB3-A184-25CC4CDD7E1D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EC8807-1685-4CB3-A184-25CC4CDD7E1D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E5EC8807-1685-4CB3-A184-25CC4CDD7E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EC8807-1685-4CB3-A184-25CC4CDD7E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F69DD3-100E-41ED-B116-A8DBCF5FA275}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{98F69DD3-100E-41ED-B116-A8DBCF5FA275}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{98F69DD3-100E-41ED-B116-A8DBCF5FA275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F69DD3-100E-41ED-B116-A8DBCF5FA275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC163673-E503-4FD9-A8FA-1E1EBADED5AC}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{AC163673-E503-4FD9-A8FA-1E1EBADED5AC}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{AC163673-E503-4FD9-A8FA-1E1EBADED5AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC163673-E503-4FD9-A8FA-1E1EBADED5AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D514089-EC23-4235-B532-444A776E7395}
+	EndGlobalSection
+EndGlobal

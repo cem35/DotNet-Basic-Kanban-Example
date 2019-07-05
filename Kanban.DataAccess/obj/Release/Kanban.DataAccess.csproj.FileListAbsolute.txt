@@ -1,0 +1,15 @@
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\obj\Release\Kanban.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\bin\Release\Kanban.DataAccess.dll.config
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\bin\Release\Kanban.DataAccess.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\bin\Release\Kanban.DataAccess.pdb
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\bin\Release\Kanban.Entities.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\bin\Release\Kanban.Entities.pdb
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\bin\Release\Kanban.Entities.dll.config
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\bin\Release\EntityFramework.xml
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\obj\Release\Kanban.DataAccess.csprojAssemblyReference.cache
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\obj\Release\Kanban.DataAccess.csproj.CopyComplete
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\obj\Release\Kanban.DataAccess.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.DataAccess\obj\Release\Kanban.DataAccess.pdb

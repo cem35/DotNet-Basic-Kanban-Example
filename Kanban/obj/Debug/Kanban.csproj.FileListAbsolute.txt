@@ -1,0 +1,5 @@
+C:\Users\ceozkan\source\repos\Kanban\Kanban\obj\Debug\Kanban.csprojAssemblyReference.cache
+C:\Users\ceozkan\source\repos\Kanban\Kanban\obj\Debug\Kanban.Form1.resources
+C:\Users\ceozkan\source\repos\Kanban\Kanban\obj\Debug\Kanban.Properties.Resources.resources
+C:\Users\ceozkan\source\repos\Kanban\Kanban\obj\Debug\Kanban.csproj.GenerateResource.cache
+C:\Users\ceozkan\source\repos\Kanban\Kanban\obj\Debug\Kanban.csproj.CoreCompileInputs.cache

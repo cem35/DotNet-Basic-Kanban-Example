@@ -1,0 +1,12 @@
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\obj\Release\Kanban.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\obj\Release\Kanban.Entities.csprojAssemblyReference.cache
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\bin\Release\Kanban.Entities.dll.config
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\bin\Release\Kanban.Entities.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\bin\Release\Kanban.Entities.pdb
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\bin\Release\EntityFramework.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\bin\Release\EntityFramework.xml
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\obj\Release\Kanban.Entities.csproj.CopyComplete
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\obj\Release\Kanban.Entities.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\obj\Release\Kanban.Entities.pdb

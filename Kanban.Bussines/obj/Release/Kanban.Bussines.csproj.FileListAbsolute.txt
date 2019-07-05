@@ -1,0 +1,16 @@
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\obj\Release\Kanban.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\Kanban.Bussines.dll.config
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\Kanban.Bussines.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\Kanban.Bussines.pdb
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\Kanban.DataAccess.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\Kanban.Entities.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\EntityFramework.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\Kanban.DataAccess.pdb
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\Kanban.DataAccess.dll.config
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\Kanban.Entities.pdb
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\Kanban.Entities.dll.config
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\bin\Release\EntityFramework.xml
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\obj\Release\Kanban.Bussines.csprojAssemblyReference.cache
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\obj\Release\Kanban.Bussines.csproj.CopyComplete
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\obj\Release\Kanban.Bussines.dll
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Bussines\obj\Release\Kanban.Bussines.pdb

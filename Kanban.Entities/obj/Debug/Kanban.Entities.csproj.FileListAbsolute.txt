@@ -1,0 +1,2 @@
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\obj\Debug\Kanban.Entities.csprojAssemblyReference.cache
+C:\Users\ceozkan\source\repos\Kanban\Kanban.Entities\obj\Debug\Kanban.Entities.csproj.CoreCompileInputs.cache
