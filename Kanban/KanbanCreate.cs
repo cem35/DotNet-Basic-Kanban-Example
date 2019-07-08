@@ -29,7 +29,6 @@ namespace Kanban
         int _userId;
         string _listName;
 
-
         public KanbanCreate()
         {
             InitializeComponent();

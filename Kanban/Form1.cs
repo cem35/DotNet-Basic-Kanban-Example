@@ -18,8 +18,8 @@ namespace Kanban
     {
         IUserService _userService;
         User _loginUser;
+         
         public string userName = ""; 
-        
         public int userId =0;
         public int Id;
         public Form1()

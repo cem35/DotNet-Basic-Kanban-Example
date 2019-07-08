@@ -1,0 +1,45 @@
+Db Name => Kanban
+
+
+CREATE TABLE [dbo].[Users] (
+    [Id]       INT            IDENTITY (1, 1) NOT NULL,
+    [Name]     NVARCHAR (MAX) NULL,
+    [Surname]  NVARCHAR (MAX) NULL,
+    [Email]    NVARCHAR (MAX) NULL,
+    [Password] NVARCHAR (MAX) NULL
+);
+
+
+
+
+
+CREATE TABLE [dbo].[ToDoLists] (
+    [Id]     INT            IDENTITY (1, 1) NOT NULL,
+    [UserId] INT            NOT NULL,
+    [Name]   NVARCHAR (MAX) NULL
+);
+
+
+
+
+CREATE TABLE [dbo].[ToDoItems] (
+    [Id]          INT            IDENTITY (1, 1) NOT NULL,
+    [ToDoListId]  INT            NULL,
+    [Name]        NVARCHAR (MAX) NULL,
+    [Description] NVARCHAR (MAX) NULL,
+    [Deadline]    DATETIME       NULL,
+    [Status]      NVARCHAR (MAX) NULL,
+    [DepId]       INT            NULL
+);
+
+
+
+
+CREATE TABLE [dbo].[Dependencies] (
+    [Id]        INT IDENTITY (1, 1) NOT NULL,
+    [ToDoItem1] INT NOT NULL,
+    [ToDoItem2] INT NULL,
+    [Status]    INT NULL
+);
+
+
